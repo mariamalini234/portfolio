@@ -1,4 +1,4 @@
-# Maria Malini – Portfolio
+# Maria Malini - Portfolio
 
 IT Product Manager | PMI-PMP | Master's in Applied Data Science 
 
