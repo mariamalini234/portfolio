@@ -17,10 +17,13 @@ IT Product Manager | PMI-PMP | Master's in Applied Data Science
 - https://github.com/mariamalini234/AI_Ethics_and_Global_Regulations
 
 ### Cyberbullying Detection (TF-IDF)
-- Text classification using TF-IDF + ML models
+- This Python-based cyberbullying detection project uses TF-IDF feature extraction and machine learning classifiers (SVM, k-NN) to identify bullying content in social media posts, including text preprocessing, model evaluation, and an interactive demo.
+- 
 
 ### BC Fiscal Trend Analysis
 - Built a data-driven analysis of British Columbia’s public finances (2016–2025), examining revenue trends, expenditure priorities, and per-capita fiscal patterns to evaluate long-term fiscal sustainability and transparency.
 - https://github.com/mariamalini234/BC-Fiscal-Transparency-Trend 
 
 ## Repo links and more project coming soon...
+
+*Note: These projects include a mix of Individual, Group, Academic, Non-Academic and Personal Projects.
