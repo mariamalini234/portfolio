@@ -12,6 +12,10 @@ IT Product Manager | PMI-PMP | Master's in Applied Data Science
 - Created a session history with stress indicators with kaggle (stressed) + synthetic (normal) data for LLM reinforcement + cooperative learning.
 - https://github.com/mariamalini234/mental-health-stress-check
 
+### AI Ethics and Global Regulations Study
+- This study highlights that ethical concerns are not purely technical but deeply tied to governance, regulation, and global policy divergence. 
+- https://github.com/mariamalini234/AI_Ethics_and_Global_Regulations
+
 ### Cyberbullying Detection (TF-IDF)
 - Text classification using TF-IDF + ML models
 
