@@ -1,36 +1,47 @@
 # Maria Malini - Portfolio
 
-IT Product Manager | PMI-PMP | Master's in Applied Data Science 
+IT Product Manager | PMI-PMP | MADS (Applied Data Science)
+AI Systems | Data Products | Machine Learning | Policy-Aware AI 
 
-## Projects
+## Selected Projects
 
-### 1. Lyrics Classification & Mood Search (Individual)
-- End-to-end Music NLP pipeline using TF-IDF + SBERT + Style + Dim Reduction, train + test + classify and hybrid search
-- https://github.com/mariamalini234/Music_NLP-lyrics_mood_recommender_system
+### 1. AI Governance, Ethics & System Thinking
+- Exploring risks, regulation, and responsible AI deployment at scale.
 
-### 2. Uvic Hackathon - Mental Stress Indicator (Team of 2)
-- Created a session history with stress indicators with kaggle (stressed) + synthetic (normal) data for LLM reinforcement + cooperative learning.
-- https://github.com/mariamalini234/mental-health-stress-check
-
-### 3. AI Ethics and Global Regulations Study (Team of 4)
-- This study highlights that ethical concerns are not purely technical but deeply tied to governance, regulation, and global policy divergence. 
+#### AI Ethics & Global Regulations Study:
+- Explored risks in large language models including bias, hallucination, psychological manipulation, and privacy failures, along with global regulatory responses (EU GDPR, US, China, India, etc.).
+- Mapped how Chatbot AI behavior intersects with governance, compliance, and safety frameworks.
 - https://github.com/mariamalini234/AI_Ethics_and_Global_Regulations
 
-### 4. Cyberbullying Detection using TF-IDF (Team of 4)
-- This Python-based cyberbullying detection project uses TF-IDF feature extraction and machine learning classifiers (SVM, k-NN) to identify bullying content in social media posts, including text preprocessing, model evaluation, and an interactive demo.
-- https://github.com/mariamalini234/cyberbullying-detection
-
-### 5. BC Fiscal Trend Analysis (Team of 2)
-- Built a data-driven analysis of British Columbia’s public finances (2016–2025), examining revenue trends, expenditure priorities, and per-capita fiscal patterns to evaluate long-term fiscal sustainability and transparency.
-- https://github.com/mariamalini234/BC-Fiscal-Transparency-Trend
-
-### 6. Technation - AiEO Visibility Challenge (Team of 4)
-- We designed a set of 100 real world questions to gather raw data, analyzed and submitted findings.
-- We proposed "The Sovereign AI Framework" a 3-Tiered Solution to overcome AI inaccuracies and ensure equitable access to information.
+#### Technation - AiEO Visibility Challenge:
+- Designed a structured question-based data collection framework and developed the “Sovereign AI Framework”, a 3-layer prototype system addressing AI misinformation, accessibility, and fairness in information systems.
 - https://github.com/mariamalini234/technation-aieo-visibility-challenge
 
-### 7. Unstructured To Structured Data Pipeline (Team of 2)
-- Built a scalable data pipeline to transform multi-source unstructured data into structured, ML-ready datasets, ensuring data integrity and traceability (Strict NDA-restricted, details on request).
+#### BC Fiscal Transparency & Trend Analysis:
+- Built a data-driven analysis of British Columbia’s public finances (2016–2025), examining revenue trends, expenditure priorities, and per-capita fiscal patterns to evaluate long-term fiscal sustainability and transparency.
+- https://github.com/mariamalini234/BC-Fiscal-Transparency-Trend
+  
+### 2. AI Systems & Machine Learning Products
+- Building intelligent systems that understand, classify, and retrieve human language.
+
+#### Lyrics Classification & Mood-Based Search:
+- End-to-end NLP product using TF-IDF, SBERT embeddings, Style features, dimensionality reduction, classification and hybrid search to classify song moods and enable semantic music discovery.
+- https://github.com/mariamalini234/Music_NLP-lyrics_mood_recommender_system
+
+#### Cyberbullying Detection System:
+- Developed a machine learning pipeline using TF-IDF and classical ML models (SVM, k-NN) to detect cyberbullying in social media text.
+- Includes preprocessing, feature extraction, model evaluation, and prototype classification system.
+- https://github.com/mariamalini234/cyberbullying-detection
+
+#### Mental Stress Indicator System (Hackathon):
+- Built a behavioral dataset combining real (Kaggle) and synthetic data to model stress indicators and support LLM-assisted pattern learning for mental health signals.
+- https://github.com/mariamalini234/mental-health-stress-check
+
+### 3. Data Engineering & Pipelines
+- Transforming raw, unstructured data into structured, ML-ready systems
+
+#### Unstructured to Structured Data Pipeline (NDA-Sensitive)
+- Designed a scalable data transformation pipeline converting heterogeneous unstructured inputs into structured, ML-ready datasets with traceable data lineage and integrity checks. (Details available upon request under NDA constraints)
 - https://github.com/mariamalini234/unstructured-to-structured-data-pipeline
 
-#### Note: These projects include a mix of Individual, Group, Academic, Non-Academic and Personal Projects.
+##### Note: These projects are a mix of Individual, Group, Academic, Non-Academic and Personal Projects.
