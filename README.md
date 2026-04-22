@@ -29,8 +29,8 @@ IT Product Manager | PMI-PMP | Master's in Applied Data Science
 - We proposed "The Sovereign AI Framework" a 3-Tiered Solution to overcome AI inaccuracies and ensure equitable access to information.
 - https://github.com/mariamalini234/technation-aieo-visibility-challenge
 
-### 7. Unstructured T Structured Data Pipeline (Team of 2)
-- Built a scalable data pipeline to transform multi-source unstructured data into structured, ML-ready datasets, ensuring data integrity and traceability (NDA-restricted; details on request).
+### 7. Unstructured To Structured Data Pipeline (Team of 2)
+- Built a scalable data pipeline to transform multi-source unstructured data into structured, ML-ready datasets, ensuring data integrity and traceability (Strict NDA-restricted, details on request).
 - https://github.com/mariamalini234/unstructured-to-structured-data-pipeline
 
-*Note: These projects include a mix of Individual, Group, Academic, Non-Academic and Personal Projects.
+#### Note: These projects include a mix of Individual, Group, Academic, Non-Academic and Personal Projects.
