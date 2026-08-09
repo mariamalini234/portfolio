@@ -22,7 +22,7 @@
 - https://github.com/mariamalini234/BC-Fiscal-Transparency-Trend
 
 #### 4. Credit Card Fraud Management System
-- Designed & built a dual-routing hybrid fraud detection engine combining supervised XGBoost (known fraud) and an unsupervised Autoencoder (unknown fraud), optimizing financial loss with cost-sensitive thresholding.
+- Designed & built a dual-routing hybrid fraud detection engine combining supervised XGBoost (known fraud) and an unsupervised Autoencoder (safety net for novel fraud), optimizing financial loss with cost-sensitive thresholding.
 - https://github.com/mariamalini234/cc-fraud-risk-management 
   
 ### 2. AI Systems & Machine Learning Products
