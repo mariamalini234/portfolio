@@ -54,5 +54,6 @@
 
 #### 2. Geospatial Bird Migration Analytics
 - Designed and developed an ML pipeline utilizing Balanced Random Forest and TreeSHAP to evaluate cross-population and temporal migration transferability of Greater White-fronted Geese.
+- https://github.com/mariamalini234/geospatial-bird-migration-analytics 
 
 #### Note: These projects are a mix of Individual, Group, Academic, Non-Academic and Personal Projects.
